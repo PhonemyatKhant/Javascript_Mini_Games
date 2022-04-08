@@ -13,8 +13,8 @@
 }
 .user {
   position: absolute;
-  width: 100px;
-  height: 20px;
+  width: 80px;
+  height: 15px;
   background: rgb(255, 224, 47);
 }
 .ball {
@@ -23,7 +23,4 @@
   width: 20px;
   height: 20px;
   border-radius: 50%;
-}
-.score {
- 
 }
